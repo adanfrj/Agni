@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
         inputX = Input.GetAxis("Horizontal");
 
         //velocity
-        rbchar.velocity = new Vector2(inputX * 5f, rbchar.velocity.y);
+        rbchar.velocity = new Vector2(inputX * 10f, rbchar.velocity.y);
 
         if(Input.GetButtonDown("Jump"))
         {
