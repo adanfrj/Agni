@@ -1,10 +1,9 @@
 # Agni
 
-    <body>
-        <p> TIM 23 LUMINOUS</p>
-        <p> Mentor : Adityaloka Pratama</p>
+TIM 23 LUMINOUS
+Mentor : Adityaloka Pratama
     
-        <p>Sebelum memasukkan file project ke unity hub, ekstrak terlebih dahulu beberapa folder didalam file project.</p>
-        <p>File project di kompress agar dapat diupload pada GitHub</p>
-        <p>Terima Kasih</p>
-    </body>
+Sebelum memasukkan file project ke unity hub, ekstrak terlebih dahulu beberapa folder didalam file project.
+File project di kompress agar dapat diupload pada GitHub
+Terima Kasih
+
